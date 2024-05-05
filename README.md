@@ -1,4 +1,4 @@
-### NAME: POZHILAN V D
+### NAME: Srikaran.M
 ### REG NO. 212223240118
 # Linux-IPC-Message-Queues
 Linux IPC-Message Queues
